@@ -98,8 +98,7 @@ RNF04 – O sistema deve estar disponível 24 horas por dia
 
 FA01 – Produto indisponível: sistema informa falta
 FA02 – Cliente não cadastrado: sistema oferece opção de cadastro
-
----
+<img width="323" height="921" alt="image" src="https://github.com/user-attachments/assets/0bb4f01e-38b5-4817-9830-6d628143fb16" />
 
 ## #UC02 – Consultar Produto
 
@@ -121,7 +120,8 @@ FA02 – Cliente não cadastrado: sistema oferece opção de cadastro
 
 FA01 – Produto não encontrado
 
----
+<img width="319" height="312" alt="image" src="https://github.com/user-attachments/assets/a0003f33-3600-4aa9-93ce-3de3e06da304" />
+
 
 ## #UC03 – Verificar Estoque
 
@@ -141,8 +141,8 @@ FA01 – Produto não encontrado
 ### Fluxo Alternativo:
 
 FA01 – Produto inexistente
+<img width="248" height="312" alt="image" src="https://github.com/user-attachments/assets/fa143ab2-4abb-4887-94d2-1fa23c6b0a38" />
 
----
 
 ## #UC04 – Cadastrar Cliente
 
@@ -162,8 +162,8 @@ FA01 – Produto inexistente
 ### Fluxo Alternativo:
 
 FA01 – Dados inválidos
+<img width="232" height="312" alt="image" src="https://github.com/user-attachments/assets/00c9b067-26d6-4362-be60-5e1c700e1d33" />
 
----
 
 ## #UC05 – Emitir Comprovante
 
@@ -183,7 +183,8 @@ FA01 – Dados inválidos
 
 FA01 – Falha na impressão
 
----
+<img width="262" height="257" alt="image" src="https://github.com/user-attachments/assets/79adb3d9-cbae-4fae-846b-db1ca3adb4d3" />
+
 
 ## #UC06 – Gerar Conta a Receber
 
@@ -204,7 +205,8 @@ FA01 – Falha na impressão
 
 FA01 – Cliente não paga no prazo
 
----
+<img width="311" height="312" alt="image" src="https://github.com/user-attachments/assets/2a391b36-249b-44c2-ac8e-ed865dbf8d91" />
+
 
 ## #UC07 – Validar Receita
 
@@ -223,8 +225,8 @@ FA01 – Cliente não paga no prazo
 ### Fluxo Alternativo:
 
 FA01 – Receita inválida
+<img width="242" height="312" alt="image" src="https://github.com/user-attachments/assets/48524570-6f86-4bb3-97be-b787cff50363" />
 
----
 
 ## #UC08 – Identificar Cliente
 
@@ -245,7 +247,8 @@ FA01 – Receita inválida
 
 FA01 – Cliente não encontrado
 
----
+<img width="285" height="312" alt="image" src="https://github.com/user-attachments/assets/d797c59c-82e4-40df-befe-285067c281f8" />
+
 
 ## #UC09 – Calcular Total da Venda
 
@@ -266,7 +269,8 @@ FA01 – Cliente não encontrado
 
 FA01 – Erro de cálculo
 
----
+<img width="227" height="312" alt="image" src="https://github.com/user-attachments/assets/fa2a6973-025b-47e5-be3a-3af3dbc3ed51" />
+
 
 ## #UC10 – Cancelar Venda
 
@@ -287,3 +291,4 @@ FA01 – Erro de cálculo
 ### Fluxo Alternativo:
 
 FA01 – Venda já finalizada só pode ser cancelada com autorização
+<img width="356" height="367" alt="image" src="https://github.com/user-attachments/assets/77f48dcb-d204-4d58-af8d-04f97d9360f8" />
